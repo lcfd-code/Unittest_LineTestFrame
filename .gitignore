@@ -1,0 +1,4 @@
+/logs/*.log
+/logs/*.lock
+/reports/feng_V*
+/.idea/
